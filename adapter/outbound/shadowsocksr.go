@@ -6,14 +6,14 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/Dreamacro/clash/component/dialer"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/transport/ssr/obfs"
-	"github.com/Dreamacro/clash/transport/ssr/protocol"
+	"github.com/BarryDeng/clash/component/dialer"
+	C "github.com/BarryDeng/clash/constant"
+	"github.com/BarryDeng/clash/transport/ssr/obfs"
+	"github.com/BarryDeng/clash/transport/ssr/protocol"
 
-	"github.com/Dreamacro/go-shadowsocks2/core"
-	"github.com/Dreamacro/go-shadowsocks2/shadowaead"
-	"github.com/Dreamacro/go-shadowsocks2/shadowstream"
+	"github.com/BarryDeng/go-shadowsocks2/core"
+	"github.com/BarryDeng/go-shadowsocks2/shadowaead"
+	"github.com/BarryDeng/go-shadowsocks2/shadowstream"
 )
 
 type ShadowSocksR struct {

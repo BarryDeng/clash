@@ -8,10 +8,10 @@ import (
 	"net"
 	"sync"
 
-	"github.com/Dreamacro/clash/common/pool"
-	"github.com/Dreamacro/clash/transport/socks5"
+	"github.com/BarryDeng/clash/common/pool"
+	"github.com/BarryDeng/clash/transport/socks5"
 
-	"github.com/Dreamacro/go-shadowsocks2/shadowaead"
+	"github.com/BarryDeng/go-shadowsocks2/shadowaead"
 )
 
 const (

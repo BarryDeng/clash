@@ -3,7 +3,7 @@ module clash-test
 go 1.18
 
 require (
-	github.com/Dreamacro/clash v1.7.2-0.20211108085948-bd2ea2b917aa
+	github.com/BarryDeng/clash v1.7.2-0.20211108085948-bd2ea2b917aa
 	github.com/docker/docker v20.10.13+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/miekg/dns v1.1.47
@@ -11,10 +11,10 @@ require (
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 )
 
-replace github.com/Dreamacro/clash => ../
+replace github.com/BarryDeng/clash => ../
 
 require (
-	github.com/Dreamacro/go-shadowsocks2 v0.1.7 // indirect
+	github.com/BarryDeng/go-shadowsocks2 v0.1.7 // indirect
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/containerd/containerd v1.6.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect

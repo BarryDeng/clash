@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Dreamacro/clash/common/pool"
-	"github.com/Dreamacro/clash/log"
-	"github.com/Dreamacro/clash/transport/ssr/tools"
+	"github.com/BarryDeng/clash/common/pool"
+	"github.com/BarryDeng/clash/log"
+	"github.com/BarryDeng/clash/transport/ssr/tools"
 )
 
 type (

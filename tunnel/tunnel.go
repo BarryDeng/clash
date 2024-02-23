@@ -9,15 +9,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Dreamacro/clash/adapter/inbound"
-	"github.com/Dreamacro/clash/component/nat"
-	P "github.com/Dreamacro/clash/component/process"
-	"github.com/Dreamacro/clash/component/resolver"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/constant/provider"
-	icontext "github.com/Dreamacro/clash/context"
-	"github.com/Dreamacro/clash/log"
-	"github.com/Dreamacro/clash/tunnel/statistic"
+	"github.com/BarryDeng/clash/adapter/inbound"
+	"github.com/BarryDeng/clash/component/nat"
+	P "github.com/BarryDeng/clash/component/process"
+	"github.com/BarryDeng/clash/component/resolver"
+	C "github.com/BarryDeng/clash/constant"
+	"github.com/BarryDeng/clash/constant/provider"
+	icontext "github.com/BarryDeng/clash/context"
+	"github.com/BarryDeng/clash/log"
+	"github.com/BarryDeng/clash/tunnel/statistic"
 )
 
 var (

@@ -5,11 +5,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Dreamacro/clash/adapter/outbound"
-	"github.com/Dreamacro/clash/common/singledo"
-	"github.com/Dreamacro/clash/component/dialer"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/constant/provider"
+	"github.com/BarryDeng/clash/adapter/outbound"
+	"github.com/BarryDeng/clash/common/singledo"
+	"github.com/BarryDeng/clash/component/dialer"
+	C "github.com/BarryDeng/clash/constant"
+	"github.com/BarryDeng/clash/constant/provider"
 )
 
 type Relay struct {
