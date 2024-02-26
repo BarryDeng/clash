@@ -2,6 +2,8 @@ github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226020918-8ce551681e4d h1:njj5L
 github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226020918-8ce551681e4d/go.mod h1:56wXzjypEU+uPTir6ButQYyWikhVNKYD4SDDbR2nnlY=
 github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226094717-5da659845c5a h1:fTZLmK4lWnyLMl6TDjNQdzjvuHnurvE8seKTN0Ic8MQ=
 github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226094717-5da659845c5a/go.mod h1:9dCUYM5VdWN4DgYb31GJFzXVkays1MfHyJ4Q5OSY1gM=
+github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226095449-f37132612c3f h1:PDFFXoatpl3SHNTiuzo8K1EVhTTtzqhdKQUk64Z9rZ0=
+github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226095449-f37132612c3f/go.mod h1:9dCUYM5VdWN4DgYb31GJFzXVkays1MfHyJ4Q5OSY1gM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

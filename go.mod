@@ -24,7 +24,7 @@ require (
 )
 
 require (
-	github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226094717-5da659845c5a // indirect
+	github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226095449-f37132612c3f // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/oschwald/maxminddb-golang v1.8.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
