@@ -3,7 +3,6 @@ module github.com/BarryDeng/clash
 go 1.18
 
 require (
-	github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226020918-8ce551681e4d
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/go-chi/cors v1.2.0
 	github.com/go-chi/render v1.0.1
@@ -25,11 +24,13 @@ require (
 )
 
 require (
+	github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226094717-5da659845c5a // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/oschwald/maxminddb-golang v1.8.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/u-root/uio v0.0.0-20210528114334-82958018845c // indirect
+	github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 // indirect
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/tools v0.1.6-0.20210726203631-07bc1bf47fb2 // indirect

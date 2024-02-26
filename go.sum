@@ -1,5 +1,7 @@
 github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226020918-8ce551681e4d h1:njj5LrniqaM1MrgusXm5+KNDUNpzaiMvOoTq7nEJtSY=
 github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226020918-8ce551681e4d/go.mod h1:56wXzjypEU+uPTir6ButQYyWikhVNKYD4SDDbR2nnlY=
+github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226094717-5da659845c5a h1:fTZLmK4lWnyLMl6TDjNQdzjvuHnurvE8seKTN0Ic8MQ=
+github.com/BarryDeng/go-shadowsocks2 v0.0.0-20240226094717-5da659845c5a/go.mod h1:9dCUYM5VdWN4DgYb31GJFzXVkays1MfHyJ4Q5OSY1gM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -65,6 +67,8 @@ github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/u-root/uio v0.0.0-20210528114334-82958018845c h1:BFvcl34IGnw8yvJi8hlqLFo9EshRInwWBs2M5fGWzQA=
 github.com/u-root/uio v0.0.0-20210528114334-82958018845c/go.mod h1:LpEX5FO/cB+WF4TYGY1V5qktpaZLkKkSegbr0V4eYXA=
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
+github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 h1:SpG238mmCez9TdHDu0Qba+ol57R+/pUxvJsDXT22Fug=
+github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055/go.mod h1:CiDImH0b0JKWrAXdXqw9cBrz31oDVUBWdthDYs7dpkI=
 go.etcd.io/bbolt v1.3.6 h1:/ecaJf0sk1l4l6V4awd65v2C3ILy7MSj+s/x1ADCIMU=
 go.etcd.io/bbolt v1.3.6/go.mod h1:qXsaaIqmgQH0T+OPdb99Bf+PKfBBQVAdyD6TY9G8XM4=
 go.uber.org/atomic v1.9.0 h1:ECmE8Bn/WFTYwEW/bpKD3M8VtR/zQVbavAoalC1PYyE=
