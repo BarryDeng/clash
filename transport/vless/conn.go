@@ -5,8 +5,8 @@ import (
 	"io"
 	"net"
 
-	"github.com/yaling888/clash/common/pool"
-	"github.com/yaling888/clash/common/uuid"
+	"github.com/BarryDeng/clash/common/pool"
+	"github.com/BarryDeng/clash/common/uuid"
 )
 
 type Conn struct {
